@@ -1,8 +1,9 @@
+import { expect } from 'chai';
+import * as jsdom from 'jsdom';
 import * as mocha from 'mocha';
 import * as THREE from 'three';
-import {OrbitControls} from '../src';
-import {expect} from 'chai';
-import * as jsdom from 'jsdom';
+
+import { OrbitControls } from '../src';
 
 describe('orbit controls', () => {
   let controls: OrbitControls;
