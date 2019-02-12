@@ -6,7 +6,7 @@ ThreeJS OrbitControls as a standalone and typescript compatible npm module.
 
 # Installation
 ```shell
-npm install --save @avatsaev/three-orbitcontrols-ts
+npm install --save @kibou/three-orbitcontrols-ts
 ```
 
 # Usage
